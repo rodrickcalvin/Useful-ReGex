@@ -5,7 +5,7 @@ with what the system or site should display when its finds a string either start
 of characters like github.com/rodrickcalvin/Useful-Regex. one can filter out Useful_Regex at the end if a string
 
 
-###To do testing of your Regex.
+### To do testing of your Regex.
 try this site. It also has some of the meaning to different regular expressions.
 
 https://regex101.com/
